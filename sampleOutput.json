@@ -1,0 +1,72 @@
+{
+  "status": "ok",
+  "news": [
+      {
+          "id": "4af5665d-80df-4cb6-a48e-dab3d89e04ec",
+          "title": "Smart speaker wars: As Amazon moves up, Sonos moves out",
+          "description": "Voice agents like Alexa have already caused Sonos to rethink its product line. Now, it's looking beyond the home as Amazon starts to go for its throat with the Echo Studio.",
+          "url": "https://www.zdnet.com/article/smart-speaker-wars-as-amazon-moves-up-sonos-moves-out/",
+          "author": "@ZDNet",
+          "image": "https://zdnet3.cbsistatic.com/hub/i/r/2019/10/02/7ef5f448-803b-4de9-95e1-7ded2110cd0b/thumbnail/770x578/6936480a65669e52bca49e2e578ad44e/screen-shot-2019-10-02-at-4-22-37-pm.png",
+          "language": "en",
+          "category": [
+              "hardware",
+              "technology"
+          ],
+          "published": "2019-10-02 23:24:50 +0000"
+      },
+      {
+          "id": "dfe7cbaf-3a24-43b7-ae7a-4d0973caaaff",
+          "title": "Amazon device event: Evolutionary, not revolutionary, and there's nothing wrong with that",
+          "description": "While Amazon's various devices inspired a range of reactions -- from \"awesome\" to \"nonsense\" -- the event overshadowed a potentially even bigger announcement that the company made a day earlier.",
+          "url": "https://www.zdnet.com/article/amazon-device-event-evolutionary-not-revolutionary-and-theres-nothing-wrong-with-that/",
+          "author": "@ZDNet",
+          "image": "https://zdnet4.cbsistatic.com/hub/i/r/2019/09/25/28feaaac-33ca-4109-9df4-4effde7af621/thumbnail/770x578/a15f92d45a765dc16fefb3c1e1a87b2e/amazon-alexa-glasses.jpg",
+          "language": "en",
+          "category": [
+              "hardware",
+              "technology"
+          ],
+          "published": "2019-10-01 13:47:30 +0000"
+      },
+      {
+          "id": "a72703c5-3338-4fec-8f0a-4075e7cab215",
+          "title": "How Amazon and Microsoft could build the world's biggest app store",
+          "description": "Last week, in China, Huawei launched the Mate 30 Pro. This high-end smartphone has earned the highest DXOMark rating for photographic quality and camera hardware ever recorded on a mobile device, achi...",
+          "url": "https://www.zdnet.com/article/how-amazon-and-microsoft-could-build-the-worlds-biggest-app-store/",
+          "author": "Jason Perlow",
+          "image": "https://zdnet3.cbsistatic.com/hub/i/r/2019/09/28/c24f7f0e-2a48-4b5d-b64a-ad9da98ad6fe/thumbnail/770x578/3b4b23fd080a3eabf66fc2ba173b1fb3/use.jpg",
+          "language": "en",
+          "category": [
+              "technology"
+          ],
+          "published": "2019-09-30 12:35:45 +0000"
+      },
+      {
+          "id": "681c5661-ebd1-49fb-9598-9210612bfcc8",
+          "title": "Walmart to take on Amazon Fire with trio of cheap Android tablets",
+          "description": "The new devices, which include a $64 8-inch and $79 10.1-inch slate and a $99 10.1-inch model with detachable keyboard, go on sale this week under the company's Onn electronics brand.",
+          "url": "https://www.zdnet.com/article/walmart-to-take-on-amazon-fire-with-trio-of-cheap-android-tablets/",
+          "author": "@ZDNet",
+          "image": "https://zdnet2.cbsistatic.com/hub/i/r/2019/05/22/c178362b-685e-4e66-9a1e-23af4d218795/thumbnail/770x578/fd2c09b82a16bbf200133c4f348e1f3e/walmart-onn-android-tablet-detachable-keyboard-cheap-budget-tablets.jpg",
+          "language": "en",
+          "category": [
+              "technology"
+          ],
+          "published": "2019-09-29 12:44:10 +0000"
+      },
+      {
+          "id": "9e7eadd7-ee6f-4881-a6fc-4c2c65b2afff",
+          "title": "Best business laptops on Amazon Business",
+          "description": "The very best business laptops to buy right now on Amazon Business.",
+          "url": "https://www.zdnet.com/article/best-business-laptops-on-amazon-business/",
+          "author": "@ZDNet",
+          "image": "https://zdnet1.cbsistatic.com/hub/i/r/2019/08/06/545a78f8-5806-4df3-9d4f-5f9058b5de91/thumbnail/770x578/4e193a1fc60457360f8f55711cf95755/use.jpg",
+          "language": "en",
+          "category": [
+              "technology"
+          ],
+          "published": "2019-09-29 12:44:10 +0000"
+      }
+  ]
+}
